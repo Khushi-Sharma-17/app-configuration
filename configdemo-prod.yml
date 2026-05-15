@@ -1,1 +1,5 @@
-
+build:
+  id: 101010101
+  version: 100.2.3
+  name: "Prod-Git-Production-Build"
+  type: "GIT Production Build"
